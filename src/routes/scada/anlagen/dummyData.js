@@ -58,5 +58,17 @@ export default [
 		datenpunkte: '553',
 		anzahlFehler: '333',
 		fehler: 'FEHLER'
+	},
+	{
+		id: 6,
+		SCADA: 'FRD0885',
+		Anlagenkennung: 'WPA642',
+		Werk: '4',
+		Gebäude: '13',
+		Anlagenbeschreibung: 'Noch eine Anlage im anderen Werk',
+		kanal: 'IFIX',
+		datenpunkte: '1224',
+		anzahlFehler: '2',
+		fehler: 'OK'
 	}
 ];
